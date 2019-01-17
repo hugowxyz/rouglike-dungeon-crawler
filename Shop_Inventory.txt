@@ -1,0 +1,11 @@
+Health Potion, 20
+Mana Potion, 10
+Cloak of Power, 50
+Fortune's Key, 100
+Microlith of Light, 50
+Spite Staff, 500
+Book of Decay, 10
+Amulet of Oblivion, 1000
+Thaumaturgy Tiara, 450
+Paramount Instrument, Boss
+Staff of Malediction, Boss
